@@ -7,7 +7,6 @@
 - Computación Cuántica aplicada
 - Redes Neuronales y Deep Learning
 - Electrónica y sistemas embebidos
-- Simulación y visualización de grafos
 - Ingeniería de Software y Arquitectura de Sistemas
 
 ---
