@@ -15,7 +15,7 @@
 ## 🧰 Tecnologías que uso
 
 ```bash
-Lenguajes: Python, C++, Arduino, MATLAB  
+Lenguajes: Python, C++, Arduino, C, Java, Dart
 Herramientas: PyQt5, ttkbootstrap, SQLite, Git, VSCode, PyCharm  
 Hardware: Arduino, sensores digitales/análogos, protoboard  
 Otros: LaTeX, UML, diagramas de flujo
