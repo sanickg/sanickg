@@ -1,20 +1,39 @@
-# 👨‍💻 Bienvenido ^^
+# Alfonso López Martínez
 
-¡Hola! Soy estudiante de Ingeniería en Ciencias de la Computación, apasionado por la tecnología, la inteligencia artificial y la computación cuántica. Aquí encontrarás proyectos que combinan software, y ciencia para resolver problemas del mundo real.
-
-## 💡 Intereses
-
-- Computación Cuántica aplicada
-- Redes Neuronales y Deep Learning
-- Electrónica y sistemas embebidos
-- Ingeniería de Software y Arquitectura de Sistemas
+Estudiante de Ingeniería en Ciencias de la Computación con interés en inteligencia artificial y computación cuántica. Desarrollo modelos de IA en Python, aplicaciones móviles en Java y cuento con conocimientos básicos de redes de computadoras. Mi objetivo es especializarme en computación cuántica y su aplicación a problemas computacionales complejos.
 
 ---
 
-## 🧰 Tecnologías que uso
+## Áreas de interés
 
-```bash
-Lenguajes: Python, C++, Arduino, C, Java, Dart
-Herramientas: PyQt5, ttkbootstrap, SQLite, Git, VSCode, PyCharm  
-Hardware: Arduino, sensores digitales/análogos, protoboard  
-Otros: LaTeX, UML, diagramas de flujo
+- Computación cuántica
+- Inteligencia artificial y aprendizaje profundo
+- Desarrollo de aplicaciones móviles
+- Redes de computadoras
+- Electrónica y sistemas embebidos
+
+---
+
+## Tecnologías
+
+**Lenguajes:** Python, Java, C++, C
+**Inteligencia artificial:** Redes neuronales, Deep Learning (Python)
+**Desarrollo móvil:** Java (Android)
+**Redes:** Fundamentos de redes de computadoras
+**Herramientas:** Git, VSCode, PyCharm, SQLite, PyQt5, ttkbootstrap
+**Hardware:** Arduino, sensores digitales y analógicos, protoboard
+**Documentación:** LaTeX, UML, diagramas de flujo
+
+---
+
+## En desarrollo
+
+- Fundamentos de computación cuántica y primeros pasos con Qiskit
+- Profundización en inteligencia artificial y aprendizaje profundo
+
+---
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/alfonso-lópez-254a04247
+- Correo: alfonso980390@gmail.com
