@@ -1,6 +1,6 @@
 # Alfonso López Martínez
 
-Estudiante de Ingeniería en Ciencias de la Computación con interés en inteligencia artificial y computación cuántica. Estoy aprendiendo a desarrollar modelos de IA en Python, aplicaciones móviles en Java y cuento con conocimientos básicos de redes de computadoras. Mi objetivo es especializarme en computación cuántica y su aplicación a problemas computacionales complejos.
+Estudiante de Ingeniería en Ciencias de la Computación con interés en inteligencia artificial y computación cuántica. **Estoy aprendiendo** a desarrollar modelos de IA en Python, aplicaciones móviles en Java y cuento con conocimientos básicos de redes de computadoras. Mi objetivo a futuro es especializarme en inteligencia artificial y computación cuántica, explorando especialmente su intersección mediante algoritmos cuánticos, aprendizaje automático cuántico y sistemas híbridos clásico-cuánticos.
 
 ---
 
@@ -21,7 +21,8 @@ Estudiante de Ingeniería en Ciencias de la Computación con interés en intelig
 **Desarrollo móvil:** Java (Android)
 **Redes:** Fundamentos de redes de computadoras
 **Herramientas:** Git, VSCode, PyCharm, SQLite, PyQt5, Numpy
-**Hardware:** Arduino, sensores digitales y analógicos, protoboard
+**Hardware:** CPU, GPU, Arduino, sensores digitales y analógicos, protoboard
+**SOs:** Windows, Linux, Android
 **Documentación:** LaTeX, UML, diagramas de flujo
 
 ---
